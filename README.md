@@ -37,3 +37,6 @@ php artisan serve
 email - admin@gmail.com
 password - 12345678
 
+<!-- WebSocket Run command -->
+php artisan websockets:serve
+
